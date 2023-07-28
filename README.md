@@ -1,3 +1,7 @@
 ## E-Commerce App
 
-- [Project Link](https://bit.ly/fs-ecommerce)
+E-commerce application with React, Nextjs, Typescript, Sanity CMS, Stripe, and TailwindCSS
+
+https://ecommerce-application-nu.vercel.app/
+
+
