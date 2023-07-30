@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Flair",
-  description: "Expertly designed goods for the workspace, home, and travel..",
+  name: "E-SHOP",
+  description: "Discover a world of convenience and excitement at our Eshop! 🌐 Browse through our extensive collection of top-quality products, carefully curated to cater to your every need and desire.",
   footer: [
     { name: "Home", href: "/" },
     { name: "About", href: "#" },
